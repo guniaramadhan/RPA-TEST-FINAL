@@ -1,0 +1,15 @@
+{
+  "Value": {
+    "LoadHideMeApp.xaml": [
+      {
+        "IsEnabled": true,
+        "Annotation": null,
+        "Id": "442ab7e4-5c15-4cfc-aaba-a430560b5af6",
+        "ActivityIdRef": "OpenApplication_2",
+        "ActivityId": "1.11",
+        "ActivityName": "Open Application 'hide.me.exe  hide.me VPN'",
+        "IsTransient": false
+      }
+    ]
+  }
+}

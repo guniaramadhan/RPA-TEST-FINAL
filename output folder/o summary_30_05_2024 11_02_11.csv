@@ -1,0 +1,7 @@
+﻿Start Date,End Date,User ID,Username,Status,Error Message,Screenshot Path
+30-05-2024 11:01:15,30-05-2024 11:01:20,782,David V. Lopez,Success,,
+30-05-2024 11:01:20,30-05-2024 11:01:30,175,Veronica P. Adams,Success,,
+30-05-2024 11:01:30,30-05-2024 11:01:35,970,Melissa C. Billings,Success,,
+30-05-2024 11:01:35,30-05-2024 11:02:07,,,Failed,"Cannot select item. It was not found among existing items.
+TIP: Some combo-boxes delay load items until its dropdown is expanded. Try to simulate a click on control prior to selecting an item.",Screenshots\30_05_2024_11_02_07.png
+30-05-2024 11:02:07,30-05-2024 11:02:11,233,Benjamin F. Rivera,Success,,
